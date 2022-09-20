@@ -39,10 +39,14 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/11-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
+# Hospedagem
+
+* Endereço eletrônico público de acesso ao conteúdo publicado. 
+
+# Pasta de Armazenamento do Código-Fonte
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Apresentação
+# Pasta de Armazenamento da Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
