@@ -4,7 +4,7 @@
 
 <a href="presentation/README.md"> Clique aqui para fazer os uploads dos arquivos de apresentação da solução.</a>
 
-# Material de Apoio Complementar sobre a Apresentação de um Produto
+# Material de Apoio sobre a Apresentação de um Produto
 
 ## Título do Projeto
 
