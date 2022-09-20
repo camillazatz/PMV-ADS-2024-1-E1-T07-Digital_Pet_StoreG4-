@@ -43,10 +43,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 * Endereço eletrônico público de acesso ao conteúdo publicado. 
 
-# Pasta de Armazenamento do Código-Fonte
+# Armazenamento do Código-Fonte
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Pasta de Armazenamento da Apresentação
+# Armazenamento da Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
