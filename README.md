@@ -45,8 +45,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Armazenamento do Código-Fonte
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+* <a href="src/README.md">Código Fonte</a>
 
 # Armazenamento da Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+* <a href="presentation/README.md">Apresentação da solução</a>
