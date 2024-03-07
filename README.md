@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# DIGITAL PET STORE
+`Análise e Desenvolvimento de Sistemas`
 
-`CURSO`
+`Projeto`
 
-`DISCIPLINA`
+`Eixo 1`
 
-`SEMESTRE`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O objetivo geral deste projeto é o desenvolvimento de uma solução digital online de Pet Shop que permita aos clientes primários maior alcance do público-alvo, além de controle de estoque e relatórios de performance. Ademais, visando o conforto do cliente final, procuramos disponibilizar informações de produtos, serviços, possibilidade de compra e agendamento para os mesmos.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+*Camilla Penteado Zatz
+*Cauã Marcos da Silva
+*Estevão Barboza da Gama dos Reis Silva
+*Júlio Piubello da Silva Cabral
+*Samara Raíssa dos Santos Américo Guimarães 
+*Victor Rodrigues Magalhães Faria
 
 ## Orientador
 
-* Nome completo do professor 1
+*Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
